@@ -23,8 +23,8 @@
      "Name": "Servidor LS BR 🟠",
      "TYPE": "premium",
      "FLAG": "br.png",
-     "ServerIP": "vpslsbr.shop",
-     "CheckUser": "http://vpslsbr.shop:2052/checkUser",
+     "ServerIP": "p1.lsbrws.top",
+     "CheckUser": "http://ch1.lsbrws.top:2052/checkUser",
      "ServerPort": "80",
      "SSLPort": "443",
      "USER": "",
@@ -34,8 +34,8 @@
      "Name": "Servidor LS BR 2 PREMIUM 🟣",
      "TYPE": "premium",
      "FLAG": "br.png",
-     "ServerIP": "vps2lsbr.shop",
-     "CheckUser": "http://vps2lsbr.shop:2052/checkUser",
+     "ServerIP": "p2.lsbrws.top",
+     "CheckUser": "http://ch2.lsbrws.top:2052/checkUser",
      "ServerPort": "80",
      "SSLPort": "443",
      "USER": "",
@@ -49,7 +49,7 @@
      "Payload": "[delay_split]CONNECT f.lsbr.shop:8080 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "f.lsbr.shop",
+     "ProxyIP": "f.lsbrws.top",
      "ProxyPort": "8080",
      "Info": "Proxy" 
    },
@@ -59,7 +59,7 @@
      "Payload": "[delay_split]GET / HTTP/1.1[crlf]Host:portalrecarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "f.lsbr.shop",
+     "ProxyIP": "f.lsbrws.top",
      "ProxyPort": "8080",
      "Info": "Proxy" 
    },
@@ -69,7 +69,7 @@
      "Payload": "[delay_split]POST /chat HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Transfer-Encoding: chunked[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "f.lsbr.shop",
+     "ProxyIP": "f.lsbrws.top",
      "ProxyPort": "8080",
      "Info": "Proxy" 
    },
@@ -89,7 +89,7 @@
      "Payload": "[delay_split]CONNECT s.lsbr.shop:8080 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "s.lsbr.shop",
+     "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "8080",
      "Info": "Proxy" 
    },
@@ -99,7 +99,7 @@
      "Payload": "[delay_split]GET / HTTP/1.1[crlf]Host:portalrecarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "s.lsbr.shop",
+     "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "8080",
      "Info": "Proxy" 
    },
@@ -109,7 +109,7 @@
      "Payload": "[delay_split]POST /chat HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Transfer-Encoding: chunked[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "s.lsbr.shop",
+     "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "8080",
      "Info": "Proxy" 
    },
@@ -129,7 +129,7 @@
      "Payload": "[delay_split]CONNECT teste.lsbr.shop:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "teste.lsbr.shop",
+     "ProxyIP": "bkp.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -139,7 +139,7 @@
      "Payload": "[delay_split]GET / HTTP/1.1[crlf]Host:portalrecarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "teste.lsbr.shop",
+     "ProxyIP": "bkp.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -149,7 +149,7 @@
      "Payload": "[delay_split]POST /chat HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Transfer-Encoding: chunked[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "teste.lsbr.shop",
+     "ProxyIP": "bkp.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -479,7 +479,7 @@
      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "f.lsbr.shop",
+     "ProxyIP": "f.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -489,7 +489,7 @@
      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "f.lsbr.shop",
+     "ProxyIP": "f.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -499,7 +499,7 @@
      "Payload": "ACL / HTTP/1.1[crlf]Host: google.es[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "f.lsbr.shop",
+     "ProxyIP": "f.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -569,7 +569,7 @@
      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "s.lsbr.shop",
+     "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -579,7 +579,7 @@
      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "s.lsbr.shop",
+     "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -589,7 +589,7 @@
      "Payload": "ACL / HTTP/1.1[crlf]Host: google.es[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "s.lsbr.shop",
+     "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -619,7 +619,7 @@
      "Payload": "GET / HTTP/1.1[crlf]Host:[random=ads-resources.waze.com;firebaseinstallations.googleapis.com;ctilesgcs-row.waze.com;mobilemaps-pa-gz.googleapis.com;rtproxy-row.waze.com][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "f.lsbr.shop",
+     "ProxyIP": "f.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -629,7 +629,7 @@
      "Payload": "GET / HTTP/1.1[crlf]Host:[random=ads-resources.waze.com;firebaseinstallations.googleapis.com;ctilesgcs-row.waze.com;mobilemaps-pa-gz.googleapis.com;rtproxy-row.waze.com][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "s.lsbr.shop",
+     "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
    }
