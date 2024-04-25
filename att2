@@ -1,11 +1,11 @@
 { 
  "Version": "2.3.2", 
  "ReleaseNotes": "Nova Atualização Disponível - Vivo SEC AUX 🟠🟢🟣 adicionada!✅",
- "UrlUpdate": "bitbin.it/2U8cjR8f/raw",
+ "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
- "UrlContato": "bit.ly/LSVPN",
- "UrlTermos": "bit.ly/termosls",
+ "UrlContato": "https://bit.ly/LSVPN",
+ "UrlTermos": "https://bit.ly/termosls",
  "CheckUser": "true",
  "Udp": [ 
     { "Porta": "7100" },
