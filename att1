@@ -1,0 +1,77 @@
+{ 
+ "Version": "2.2.7", 
+ "ReleaseNotes": "Nova Atualização Disponível - Fluke Directs 🟠🟣 Atualizadas.",
+ "UrlUpdate": "https://bitbin.it/2U8cjR8f/raw/",
+ "Sms": "",
+ "EmailFeedback": "testenetssh@gmail.com",
+ "UrlContato": "https://bit.ly/LSVPN",
+ "UrlTermos": "https://paste.anasor.com/paste.php?raw&id=347466",
+ "CheckUser": "true",
+ "Udp": [ 
+    { "Porta": "7100" },
+    { "Porta": "7200" },
+    { "Porta": "7300" },
+    { "Porta": "7400" },
+    { "Porta": "7500" },
+    { "Porta": "7600" },
+    { "Porta": "7700" },
+    { "Porta": "7800" },
+    { "Porta": "7900" }
+ ],
+ "Servers": [ 
+   { 
+     "Name": "Servidor LS BR 🟠",
+     "TYPE": "premium",
+     "FLAG": "br.png",
+     "ServerIP": "vpslsbr.shop",
+     "CheckUser": "http://gdhost.space/api/f.lsbr.shop:5000/checkUser",
+     "ServerPort": "80",
+     "SSLPort": "443",
+     "USER": "",
+     "PASS": "" 
+   },
+   { 
+     "Name": "Servidor LS BR 2 PREMIUM 🟣",
+     "TYPE": "premium",
+     "FLAG": "br.png",
+     "ServerIP": "vps2lsbr.shop",
+     "CheckUser": "http://gdhost.space/api/s.lsbr.shop:5000/checkUser",
+     "ServerPort": "80",
+     "SSLPort": "443",
+     "USER": "",
+     "PASS": "" 
+   }
+ ], 
+  "Networks": [ 
+    {
+     "Name": "Vivo TLS ✈️✈️(Modo Avião)",
+     "FLAG": "vivo",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "SNI": "[app_host]",
+     "TlsIP": "104.16.124.175",
+     "ProxyIP": "",
+     "ProxyPort": "",
+     "Info": "Tlsws"
+   },
+   { 
+     "Name": "TIM Direct (Crédito Válido)",
+     "FLAG": "tim",
+     "Payload": "CONNECT / HTTP/1.1[crlf]Host:c6bank.com.br[crlf][crlf][crlf][crlf]OPTIONS- // HTTP/1.1[crlf]Host:[app_host][crlf]Connection:Upgrade,Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "104.18.27.160",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "Fluke Direct (BR)",
+     "FLAG": "oi",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "f.lsbr.shop",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   }
+  ] 
+}
