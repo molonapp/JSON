@@ -1,5 +1,5 @@
 { 
- "Version": "2.3.2", 
+ "Version": "2.3.3", 
  "ReleaseNotes": "Nova Atualização Disponível - Vivo SEC AUX 🟠🟢🟣 adicionada!✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -46,7 +46,7 @@
     { 
      "Name": "VIVO SEC (BR) 🟠",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT f.lsbr.shop:8080 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT f.lsbrws.top:8080 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
@@ -86,7 +86,7 @@
    { 
      "Name": "VIVO SEC (BR 2 PREMIUM) 🟣",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT s.lsbr.shop:8080 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT s.lsbrws.top:8080 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
@@ -126,7 +126,7 @@
    { 
      "Name": "VIVO SEC (BACKUP) 🟢",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT teste.lsbr.shop:80 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT bkp.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "bkp.lsbrws.top",
