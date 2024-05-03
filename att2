@@ -1,6 +1,6 @@
 { 
- "Version": "2.3.3", 
- "ReleaseNotes": "Nova Atualização Disponível - Vivo SEC AUX 🟠🟢🟣 adicionada!✅",
+ "Version": "2.3.4", 
+ "ReleaseNotes": "Nova Atualização Disponível - Tim ROTATE (BR)🟠 e (BR 2 PREMIUM)🟣 adicionadas!✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -484,6 +484,16 @@
      "Info": "Proxy" 
    },
    { 
+     "Name": "TIM ROTATE 🔀✈️ (Crédito Expirado) (BR) 🆕🟠",
+     "FLAG": "tim",
+     "Payload": "[rotate=ACL / HTTP/1.1;HTTP/ ][crlf][crlf][rotate=;/]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "f.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
      "Name": "TIM Direct Regiões (Crédito Expirado) (BR) 🟠",
      "FLAG": "tim",
      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
@@ -567,6 +577,16 @@
      "Name": "TIM Direct Modo Avião✈️✈️(Crédito Expirado) (IP⬆️) (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "s.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   {
+     "Name": "TIM ROTATE 🔀✈️ (Crédito Expirado) (BR 2 PREMIUM) 🆕🟣",
+     "FLAG": "tim",
+     "Payload": "[rotate=ACL / HTTP/1.1;HTTP/ ][crlf][crlf][rotate=;/]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
