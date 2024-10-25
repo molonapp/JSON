@@ -1,6 +1,6 @@
 { 
- "Version": "2.3.6", 
- "ReleaseNotes": "Nova Atualização Disponível - Vivo e TIM PREMIUM 🟣🆕 Adicionadas✅",
+ "Version": "2.3.7", 
+ "ReleaseNotes": "Nova Atualização Disponível - Vivo e TIM PREMIUM 🟣🆕 Adicionadas.✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -296,20 +296,20 @@
    { 
      "Name": "TIM PREMIUM (LS BR 2 PREMIUM) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host: lojaonline.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=dhunter-6.cloudfrontglobal.org;dhunter-7.cloudfrontglobal.org;dhunter-8.cloudfrontglobal.org][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "Payload": "CONNECT / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "65.8.178.65",
+     "ProxyIP": "premier.sonos.dzcdn.net",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
      "Name": "TIM PREMIUM Regiões (LS BR 2 PREMIUM) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "OPTIONS / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[crlf] [crlf]OPTIONS / HTTP/1.1[lf]Host: [rotate=dhunter-6.cloudfrontglobal.org;dhunter-7.cloudfrontglobal.org;dhunter-8.cloudfrontglobal.org][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=dhunter-7.cloudfrontglobal.org;dhunter-8.cloudfrontglobal.org;host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "99.84.31.4",
+     "ProxyIP": "timpospromo.com.br",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
