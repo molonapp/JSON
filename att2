@@ -1,5 +1,5 @@
 { 
- "Version": "2.3.7", 
+ "Version": "2.3.8", 
  "ReleaseNotes": "Nova Atualização Disponível - Vivo e TIM PREMIUM 🟣🆕 Adicionadas.✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -296,7 +296,7 @@
    { 
      "Name": "TIM PREMIUM (LS BR 2 PREMIUM) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "CONNECT / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "Payload": "ACL / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "premier.sonos.dzcdn.net",
@@ -306,7 +306,7 @@
    { 
      "Name": "TIM PREMIUM Regiões (LS BR 2 PREMIUM) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host: timpospromo.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=dhunter-7.cloudfrontglobal.org;dhunter-8.cloudfrontglobal.org;host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "Payload": "ACL / HTTP/1.1[crlf]Host: timpospromo.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host:[rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "timpospromo.com.br",
