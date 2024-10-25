@@ -1,6 +1,6 @@
 { 
- "Version": "2.3.5", 
- "ReleaseNotes": "Nova Atualização Disponível - Vivo SEC AUX 2 Adicionada✅",
+ "Version": "2.3.6", 
+ "ReleaseNotes": "Nova Atualização Disponível - Vivo e TIM PREMIUM 🟣🆕 Adicionadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -74,7 +74,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "VIVO SEC AUX (BR) 🆕🟠",
+     "Name": "VIVO SEC AUX (BR) 🟠",
      "FLAG": "vivo",
      "Payload": "[delay_split]CONNECT ::ffff:d10e:458f:8080 HTTP/1.0[crlf][crlf]",
      "SNI": "",
@@ -84,7 +84,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "VIVO SEC AUX 2 (BR) 🆕🟠",
+     "Name": "VIVO SEC AUX 2 (BR) 🟠",
      "FLAG": "vivo",
      "Payload": "[delay_split]ACL wss://::ffff:d10e:458f:8080 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -92,6 +92,46 @@
      "ProxyIP": "::ffff:d10e:458f",
      "ProxyPort": "8080",
      "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO PREMIUM (BR 2 PREMIUM) 🟣🆕",
+     "FLAG": "vivo",
+     "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "recarga.vivo.com.br",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO PREMIUM 2 (BR 2 PREMIUM) 🟣🆕",
+     "FLAG": "vivo",
+     "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "gedoc.vivo.com.br",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO PREMIUM TLS (BR 2 PREMIUM) 🟣🆕",
+     "FLAG": "vivo",
+     "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "firezfalcon.nxtgen.pp.ua",
+     "TlsIP": "recarga.vivo.com.br",
+     "ProxyIP": "",
+     "ProxyPort": "",
+     "Info": "Tlsws" 
+   },
+   { 
+     "Name": "VIVO PREMIUM TLS 2 (BR 2 PREMIUM) 🟣🆕",
+     "FLAG": "vivo",
+     "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "firezfalcon.nxtgen.pp.ua",
+     "TlsIP": "gedoc.vivo.com.br",
+     "ProxyIP": "",
+     "ProxyPort": "",
+     "Info": "Tlsws" 
    },
    { 
      "Name": "VIVO SEC (BR 2 PREMIUM) 🟣",
@@ -124,7 +164,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "VIVO SEC AUX (BR 2 PREMIUM) 🆕🟣",
+     "Name": "VIVO SEC AUX (BR 2 PREMIUM) 🟣",
      "FLAG": "vivo",
      "Payload": "[delay_split]CONNECT ::ffff:b37f:108c:8080 HTTP/1.0[crlf][crlf]",
      "SNI": "",
@@ -134,7 +174,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "VIVO SEC AUX 2 (BR 2 PREMIUM) 🆕🟣",
+     "Name": "VIVO SEC AUX 2 (BR 2 PREMIUM) 🟣",
      "FLAG": "vivo",
      "Payload": "[delay_split]ACL wss://::ffff:b37f:108c:8080 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -174,7 +214,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "VIVO SEC AUX (BACKUP) 🆕🟢",
+     "Name": "VIVO SEC AUX (BACKUP) 🟢",
      "FLAG": "vivo",
      "Payload": "[delay_split]CONNECT ::ffff:d10e:47f2:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
@@ -184,7 +224,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "VIVO SEC AUX 2 (BACKUP) 🆕🟢",
+     "Name": "VIVO SEC AUX 2 (BACKUP) 🟢",
      "FLAG": "vivo",
      "Payload": "[delay_split]ACL wss://::ffff:d10e:47f2:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -194,107 +234,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "Vivo Direct (BR) 🟠",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdns2.cloudvoip.tech;cdns3.cloudvoip.tech;cdns1.cloudvoip.tech][crlf]backend:app25[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "18.64.207.84",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-  { 
-     "Name": "Vivo Direct 2 (BR) 🟠",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdns2.cloudvoip.tech;cdns3.cloudvoip.tech;cdns1.cloudvoip.tech][crlf]backend:app25[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "99.84.31.24",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct 3 (BR) 🟠",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdns2.cloudvoip.tech;cdns3.cloudvoip.tech;cdns1.cloudvoip.tech][crlf]backend:app25[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "108.139.119.85",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct 4 (BR) 🟠",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdns2.cloudvoip.tech;cdns3.cloudvoip.tech;cdns1.cloudvoip.tech][crlf]backend:app25[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "13.227.126.95",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct 5 DDD 90+ (BR) 🟠",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdns2.cloudvoip.tech;cdns3.cloudvoip.tech;cdns1.cloudvoip.tech][crlf]backend:app25[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "18.67.145.80",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct (BR 2 PREMIUM) 🟣",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdn1.atechouse.com;cdn3.atechouse.com;dmjj0ccfa8j3t.cloudfront.net][crlf]Backend:backendTMV6008787811[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "18.64.207.84",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct 2 (BR 2 PREMIUM) 🟣",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdn1.atechouse.com;cdn3.atechouse.com;dmjj0ccfa8j3t.cloudfront.net][crlf]Backend:backendTMV6008787811[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "99.84.31.24",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct 3 (BR 2 PREMIUM) 🟣",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdn1.atechouse.com;cdn3.atechouse.com;dmjj0ccfa8j3t.cloudfront.net][crlf]Backend:backendTMV6008787811[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "108.139.119.85",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct 4 (BR 2 PREMIUM) 🟣",
-     "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdn1.atechouse.com;cdn3.atechouse.com;dmjj0ccfa8j3t.cloudfront.net][crlf]Backend:backendTMV6008787811[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "13.227.126.95",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct 5 DDD 90+ (BR 2 PREMIUM) 🟣",
-     "FLAG": "vivo",
-     "Payload": "PATCH /app25 HTTP/1.1[crlf]Host:[rotate=cdns2.cloudvoip.tech;cdns3.cloudvoip.tech;cdns1.cloudvoip.tech][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "18.67.145.80",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Vivo Direct ✈️✈️(Modo Avião) 🆕🟠🟣",
+     "Name": "Vivo Direct ✈️✈️(Modo Avião) 🟠🟣",
      "FLAG": "vivo",
      "Payload": "ACL ws://[app_host] HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Connection:Keep-Alive, Upgrade[crlf][crlf]",
      "SNI": "",
@@ -304,7 +244,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "Vivo Direct ✈️✈️ 2 (Modo Avião) 🆕🟠🟣",
+     "Name": "Vivo Direct ✈️✈️ 2 (Modo Avião) 🟠🟣",
      "FLAG": "vivo",
      "Payload": "ACL ws://[app_host] HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Connection:Keep-Alive, Upgrade[crlf][crlf]",
      "SNI": "",
@@ -314,7 +254,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "Vivo Direct ✈️✈️ 3 (Modo Avião) 🆕🟠🟣",
+     "Name": "Vivo Direct ✈️✈️ 3 (Modo Avião) 🟠🟣",
      "FLAG": "vivo",
      "Payload": "ACL ws://[app_host] HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Connection:Keep-Alive, Upgrade[crlf][crlf]",
      "SNI": "",
@@ -350,6 +290,26 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "172.64.150.8",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM PREMIUM (LS BR 2 PREMIUM) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lojaonline.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=dhunter-6.cloudfrontglobal.org;dhunter-7.cloudfrontglobal.org;dhunter-8.cloudfrontglobal.org][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "65.8.178.65",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM PREMIUM Regiões (LS BR 2 PREMIUM) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "OPTIONS / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[crlf] [crlf]OPTIONS / HTTP/1.1[lf]Host: [rotate=dhunter-6.cloudfrontglobal.org;dhunter-7.cloudfrontglobal.org;dhunter-8.cloudfrontglobal.org][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "99.84.31.4",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
