@@ -1,6 +1,6 @@
 { 
- "Version": "2.3.9", 
- "ReleaseNotes": "Nova Atualização Disponível - Vivo e TIM PREMIUM Regiões 🟣🆕 Adicionadas.✅",
+ "Version": "2.4.0", 
+ "ReleaseNotes": "Nova Atualização Disponível - VIVO PREMIUM 🟣🆕 e TIM PREMIUM Regiões 🟣🆕 Adicionadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -99,7 +99,7 @@
      "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "recarga.vivo.com.br",
+     "ProxyIP": "::ffff:a29f:883f",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -109,7 +109,7 @@
      "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "gedoc.vivo.com.br",
+     "ProxyIP": "::ffff:6812:1ce4",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -118,7 +118,7 @@
      "FLAG": "vivo",
      "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "firezfalcon.nxtgen.pp.ua",
-     "TlsIP": "recarga.vivo.com.br",
+     "TlsIP": "::ffff:a29f:883f",
      "ProxyIP": "",
      "ProxyPort": "",
      "Info": "Tlsws" 
@@ -128,7 +128,7 @@
      "FLAG": "vivo",
      "Payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "firezfalcon.nxtgen.pp.ua",
-     "TlsIP": "gedoc.vivo.com.br",
+     "TlsIP": "::ffff:6812:1ce4",
      "ProxyIP": "",
      "ProxyPort": "",
      "Info": "Tlsws" 
