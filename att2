@@ -1,6 +1,6 @@
 { 
- "Version": "2.4.0", 
- "ReleaseNotes": "Nova Atualização Disponível - VIVO PREMIUM 🟣🆕 e TIM PREMIUM Regiões 🟣🆕 Adicionadas✅",
+ "Version": "2.4.1", 
+ "ReleaseNotes": "Nova Atualização Disponível -TIM PREMIUM Regiões e TIM DATA PREMIUM 🟣🆕 Adicionadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -296,10 +296,40 @@
    { 
      "Name": "TIM PREMIUM (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "premier.sonos.dzcdn.net",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM PREMIUM 2 (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][crlf]Backend: app670804[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "99.84.31.114",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM PREMIUM 3 (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][crlf]Backend: app670804[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "65.8.178.74",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM DATA PREMIUM (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "vpn.cloudmi.datami.com",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -309,7 +339,7 @@
      "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][crlf]Backend: app670804[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "13.227.126.91",
+     "ProxyIP": "99.84.31.114",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -319,7 +349,7 @@
      "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][crlf]Backend: app670804[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "99.84.31.114",
+     "ProxyIP": "65.8.178.74",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -329,12 +359,32 @@
      "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=host-1.centraldacdn.com;host-2.centraldacdn.com;host-3.centraldacdn.com][crlf]Backend: app670804[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "65.8.178.74",
+     "ProxyIP": "premier.sonos.dzcdn.net",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM DATA PREMIUM Regiões (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "vpn.cloudmi.datami.com",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
      "Name": "Tim Direct Modo Avião (Expirado) (IP⬇️) 🟠🟣",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "104.16.18.94",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "Tim Direct Modo Avião Regiões (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
      "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -346,7 +396,27 @@
    { 
      "Name": "Tim Direct Modo Avião 2 (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
-     "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "104.18.7.80",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "Tim Direct Modo Avião 2 Regiões (Expirado) (IP⬇️) 🟠🟣",
+     "FLAG": "tim",
+     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "104.18.7.80",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "Tim Direct Modo Avião 3 (Expirado) (IP⬇️) 🟠🟣",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "104.16.18.94",
@@ -354,19 +424,19 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "Tim Direct Modo Avião 3 (Expirado) (IP⬇️) 🟠🟣",
+     "Name": "Tim Direct Modo Avião 3 Regiões (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
      "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "104.18.7.80",
+     "ProxyIP": "104.16.18.94",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
      "Name": "Tim Direct Modo Avião 4 (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
-     "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "104.18.7.80",
@@ -374,109 +444,9 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM Direct (Alguns DDD's) (Crédito Válido) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "CONNECT / HTTP/1.1[crlf]Host:c6bank.com.br[crlf][crlf][crlf][crlf]OPTIONS- // HTTP/1.1[crlf]Host:[app_host][crlf]Connection:Upgrade,Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.18.27.160",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM Direct 2 (Crédito Válido) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:support.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- /?/ HTTP/1.1[crlf]Host:[app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.19.239.25",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM Direct 3 (Crédito Válido) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:jobs.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- /?/ HTTP/1.1[crlf]Host:[app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.19.241.25",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM Direct 4 (Crédito Válido) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:creatorsupport.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- /?/ HTTP/1.1[crlf]Host:[app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.16.51.111",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM Direct 5 (Crédito Válido) LENTA 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:boleto.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- /?/ HTTP/1.1[crlf]Host:[app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.19.239.25",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   {
-     "Name": "TIM Direct 6 (Crédito Válido) LENTA 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host: api.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.19.239.25",
-     "ProxyPort": "80",
-     "Info": "Proxy"
-   },
-   {
-     "Name": "TIM Direct 7 (Crédito Válido) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:dataacademy.descomplica.com.br[crlf]:[crlf][split][crlf]HEAD- /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent:yes[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.19.241.25",
-     "ProxyPort": "80",
-     "Info": "Proxy"
-   },
-   { 
-     "Name": "Tim Direct Modo Avião (Expirado) (IP⬇️) 🟠🟣",
+     "Name": "Tim Direct Modo Avião 4 Regiões (Expirado)(IP⬇️)🟠🟣",
      "FLAG": "tim",
      "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.16.18.94",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 2 (Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.16.18.94",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 3 (Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.18.7.80",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 4 (Expirado)(IP⬇️)🟠🟣",
-     "FLAG": "tim",
-     "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "104.18.7.80",
@@ -524,27 +494,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM TLS DDD's (Crédito Válido) NOVA Rápida (BR 2 PREMIUM) 🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=cdn1.atechouse.com;cdn3.atechouse.com;dmjj0ccfa8j3t.cloudfront.net][crlf]Backend:backendTMV6008787811[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "cdn3.atechouse.com",
-     "TlsIP": "108.158.124.45",
-     "ProxyIP": "",
-     "ProxyPort": "",
-     "Info": "Tlsws" 
-   },
-   { 
-     "Name": "TIM TLS DDD's 2 (Crédito Válido) NOVA Rápida (BR 2 PREMIUM) 🟣",
-     "FLAG": "tim",
-     "Payload": "GET wss://[rotate=cdn1.atechouse.com;cdn3.atechouse.com;dmjj0ccfa8j3t.cloudfront.net]/ HTTP/1.1[crlf]Host:C6bank.onelink.me[crlf]Backend:backendTMV6008787811[crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "cdn3.atechouse.com",
-     "TlsIP": "C6bank.onelink.me",
-     "ProxyIP": "",
-     "ProxyPort": "",
-     "Info": "Tlsws" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião (Crédito Válido e Expirado) (IP⬇️) 🟠🟣",
+     "Name": "Tim Direct Modo Avião (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
      "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -554,7 +504,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "Tim Direct Modo Avião 2 (Crédito Válido e Expirado) (IP⬇️) 🟠🟣",
+     "Name": "Tim Direct Modo Avião 2 (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
      "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
