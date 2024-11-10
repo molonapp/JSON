@@ -1,6 +1,6 @@
 { 
- "Version": "2.4.1", 
- "ReleaseNotes": "Nova Atualização Disponível -TIM PREMIUM Regiões e TIM DATA PREMIUM 🟣🆕 Adicionadas✅",
+ "Version": "2.4.2", 
+ "ReleaseNotes": "Nova Atualização Disponível -TIM REVIVE Adicionada 🟠🟣🆕 Adicionada✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -374,19 +374,19 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "Tim Direct Modo Avião (Expirado) (IP⬇️) 🟠🟣",
+     "Name": "TIM REVIVE (Crédito Válido e Expirado) 🟠🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]X-Status-Id: tunnel[crlf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]X-Status-Id: tunnel[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "104.16.18.94",
+     "ProxyIP": "revive.timrecompensas.com.br",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
-     "Name": "Tim Direct Modo Avião Regiões (Expirado) (IP⬇️) 🟠🟣",
+     "Name": "Tim Direct Modo Avião (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "104.16.18.94",
@@ -396,57 +396,7 @@
    { 
      "Name": "Tim Direct Modo Avião 2 (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.18.7.80",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 2 Regiões (Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.18.7.80",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 3 (Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.16.18.94",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 3 Regiões (Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.16.18.94",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 4 (Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.18.7.80",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 4 Regiões (Expirado)(IP⬇️)🟠🟣",
-     "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "104.18.7.80",
@@ -476,7 +426,7 @@
    { 
      "Name": "TIM Direct Regiões (Crédito Expirado) (BR) 🟠",
      "FLAG": "tim",
-     "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
+     "Payload": "[rotate=GET;ACL] http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
@@ -486,7 +436,7 @@
    { 
      "Name": "TIM Direct Regiões 2 (Crédito Expirado) (BR) 🟠",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host: google.es[crlf]",
+     "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]Host: google.es[crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
@@ -496,7 +446,7 @@
    { 
      "Name": "Tim Direct Modo Avião (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "104.16.18.94",
@@ -506,27 +456,7 @@
    { 
      "Name": "Tim Direct Modo Avião 2 (Expirado) (IP⬇️) 🟠🟣",
      "FLAG": "tim",
-     "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.16.18.94",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 3 (Crédito Válido e Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "104.18.7.80",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "Tim Direct Modo Avião 4 (Crédito Válido e Expirado) (IP⬇️) 🟠🟣",
-     "FLAG": "tim",
-     "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
+     "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf]Connection:Upgrade,Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "104.18.7.80",
