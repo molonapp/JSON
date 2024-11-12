@@ -1,5 +1,5 @@
 { 
- "Version": "2.4.3", 
+ "Version": "2.4.4", 
  "ReleaseNotes": "Nova Atualização Disponível -TIM Atualizada 🟣🆕 ✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -96,7 +96,7 @@
    { 
      "Name": "VIVO PREMIUM (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firewallfalcon.theroms.573357.xyz;firezfalcon.nxtgen.pp.ua][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:a29f:883f",
@@ -106,7 +106,7 @@
    { 
      "Name": "VIVO PREMIUM 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firewallfalcon.theroms.573357.xyz;firezfalcon.nxtgen.pp.ua][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:6812:1ce4",
@@ -116,7 +116,7 @@
    { 
      "Name": "VIVO PREMIUM TLS (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firewallfalcon.theroms.573357.xyz;firezfalcon.nxtgen.pp.ua][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "firezfalcon.nxtgen.pp.ua",
      "TlsIP": "::ffff:a29f:883f",
      "ProxyIP": "",
@@ -126,7 +126,7 @@
    { 
      "Name": "VIVO PREMIUM TLS 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firewallfalcon.theroms.573357.xyz;firezfalcon.nxtgen.pp.ua][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host:[rotate=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "firezfalcon.nxtgen.pp.ua",
      "TlsIP": "::ffff:6812:1ce4",
      "ProxyIP": "",
@@ -326,7 +326,7 @@
    { 
      "Name": "TIM DATA PREMIUM (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [rotate=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz][crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "vpn.cloudmi.datami.com",
@@ -366,7 +366,7 @@
    { 
      "Name": "TIM DATA PREMIUM Regiões (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [rotate=firewallfalcon.theroms.573357.xyz;firezfalcon.nxtgen.pp.ua][crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [rotate=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz][crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "vpn.cloudmi.datami.com",
