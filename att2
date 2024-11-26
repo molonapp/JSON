@@ -1,6 +1,6 @@
 { 
- "Version": "2.4.6", 
- "ReleaseNotes": "Nova Atualização Disponível -TIM 🟣 Atualizada ✅",
+ "Version": "2.4.7", 
+ "ReleaseNotes": "Nova Atualização Disponível -TIM AUX 🟠🟣 Adicionadas ✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -304,6 +304,16 @@
      "Info": "Proxy" 
    },
    { 
+     "Name": "TIM PREMIUM AUX (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=backend-02.centraldacdn.com;backend-01.centraldacdn.com;backend-3.centraldacdn.com][lf]Backend:app670804[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "18.173.121.128",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
      "Name": "TIM PREMIUM 2 (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=backend-02.centraldacdn.com;backend-01.centraldacdn.com;backend-3.centraldacdn.com][crlf]Backend: app670804[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
@@ -330,6 +340,16 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "vpn.cloudmi.datami.com",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM DATA PREMIUM AUX (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [random=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "1.1.1.1",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -374,12 +394,32 @@
      "Info": "Proxy" 
    },
    { 
+     "Name": "TIM DATA PREMIUM Regiões AUX (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
+     "FLAG": "tim",
+     "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [random=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend: app670804[lf]Upgrade: Websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "1.1.1.1",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
      "Name": "TIM REVIVE (Crédito Válido e Expirado) 🟠🟣🆕",
      "FLAG": "tim",
      "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]X-Status-Id: tunnel[crlf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]X-Status-Id: tunnel[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "revive.timrecompensas.com.br",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM REVIVE AUX (Crédito Válido e Expirado) 🟠🟣🆕",
+     "FLAG": "tim",
+     "Payload": "[rotate=GET;ACL] / HTTP/1.1[crlf]X-Status-Id: tunnel[crlf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]X-Status-Id: tunnel[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "104.18.4.18",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -414,12 +454,32 @@
      "Info": "Proxy" 
    },
    { 
+     "Name": "TIM Direct Modo Avião AUX ✈️✈️ (Crédito Expirado) (IP⬆️) (BR) 🟠",
+     "FLAG": "tim",
+     "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
      "Name": "TIM ROTATE 🔀✈️ (Crédito Expirado) (BR) 🆕🟠",
      "FLAG": "tim",
      "Payload": "[rotate=ACL / HTTP/1.1;HTTP/ ][crlf][crlf][rotate=;/]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM ROTATE AUX 🔀✈️ (Crédito Expirado) (BR) 🆕🟠",
+     "FLAG": "tim",
+     "Payload": "[rotate=ACL / HTTP/1.1;HTTP/ ][crlf][crlf][rotate=;/]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:d10e:458f",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -473,6 +533,16 @@
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
+   { 
+     "Name": "TIM Direct Modo Avião AUX ✈️✈️(Crédito Expirado) (IP⬆️) (BR 2 PREMIUM) 🟣",
+     "FLAG": "tim",
+     "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
    {
      "Name": "TIM ROTATE 🔀✈️ (Crédito Expirado) (BR 2 PREMIUM) 🆕🟣",
      "FLAG": "tim",
@@ -480,6 +550,16 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   {
+     "Name": "TIM ROTATE AUX 🔀✈️ (Crédito Expirado) (BR 2 PREMIUM) 🆕🟣",
+     "FLAG": "tim",
+     "Payload": "[rotate=ACL / HTTP/1.1;HTTP/ ][crlf][crlf][rotate=;/]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:b37f:108c",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
