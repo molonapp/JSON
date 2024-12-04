@@ -1,5 +1,5 @@
 { 
- "Version": "2.4.9", 
+ "Version": "2.5.0", 
  "ReleaseNotes": "Nova Atualização Disponível - VIVO PREMIUM 🟣 Atualizada ✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -99,7 +99,7 @@
      "Payload": "ACL / HTTP/1.1[crlf]Host:[random=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:a29f:883f",
+     "ProxyIP": "loja.vivo.com.br",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -109,7 +109,7 @@
      "Payload": "ACL / HTTP/1.1[crlf]Host:[random=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:6812:1ce4",
+     "ProxyIP": "loja.vivo.com.br",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -118,7 +118,7 @@
      "FLAG": "vivo",
      "Payload": "ACL / HTTP/1.1[crlf]Host:[random=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "firezfalcon.nxtgen.pp.ua",
-     "TlsIP": "::ffff:a29f:883f",
+     "TlsIP": "loja.vivo.com.br",
      "ProxyIP": "",
      "ProxyPort": "",
      "Info": "Tlsws" 
@@ -128,7 +128,7 @@
      "FLAG": "vivo",
      "Payload": "ACL / HTTP/1.1[crlf]Host:[random=firezfalcon.nxtgen.pp.ua;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend:app670804[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "firezfalcon.nxtgen.pp.ua",
-     "TlsIP": "::ffff:6812:1ce4",
+     "TlsIP": "loja.vivo.com.br",
      "ProxyIP": "",
      "ProxyPort": "",
      "Info": "Tlsws" 
