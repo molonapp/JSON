@@ -1,6 +1,6 @@
 { 
- "Version": "2.6.0", 
- "ReleaseNotes": "Nova Atualização Disponível - VIVO, TIM E CLARO PREMIUM TODOS OS DDD'S adicionadas✅",
+ "Version": "2.6.1", 
+ "ReleaseNotes": "Nova Atualização Disponível - VIVO, TIM E CLARO PREMIUM TODOS OS DDD'S atualizadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -96,7 +96,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "images.google.com.br",
      "TlsIP": "images.google.com.br",
      "ProxyIP": "",
@@ -106,7 +106,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's AUX (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "images.google.com.br",
      "TlsIP": "142.250.191.46",
      "ProxyIP": "",
@@ -116,7 +116,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "youtube.com",
      "TlsIP": "youtube.com",
      "ProxyIP": "",
@@ -126,7 +126,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 2 AUX (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "youtube.com",
      "TlsIP": "142.251.32.46",
      "ProxyIP": "",
@@ -136,7 +136,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 3 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.ads.google.com",
      "TlsIP": "www.ads.google.com",
      "ProxyIP": "",
@@ -146,7 +146,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 3 AUX (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.ads.google.com",
      "TlsIP": "142.250.189.174",
      "ProxyIP": "",
@@ -366,7 +366,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "pubsub.googleapis.com",
      "TlsIP": "pubsub.googleapis.com",
      "ProxyIP": "",
@@ -376,7 +376,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's AUX (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "pubsub.googleapis.com",
      "TlsIP": "142.251.46.202",
      "ProxyIP": "",
@@ -716,7 +716,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "gstatic.com",
      "TlsIP": "gstatic.com",
      "ProxyIP": "",
@@ -726,7 +726,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's AUX (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "gstatic.com",
      "TlsIP": "142.250.189.195",
      "ProxyIP": "",
@@ -736,7 +736,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "claropayprd.page.link",
      "TlsIP": "claropayprd.page.link",
      "ProxyIP": "",
@@ -746,7 +746,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's 2 AUX (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET / HTTP/1.1[crlf]Host: ls-centraldacdn-462211349395.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: lsnet-867934416990.us-south1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "claropayprd.page.link",
      "TlsIP": "142.251.46.161",
      "ProxyIP": "",
