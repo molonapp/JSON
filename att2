@@ -1,6 +1,6 @@
 { 
- "Version": "2.6.2", 
- "ReleaseNotes": "Nova Atualização Disponível - TIM PREMIUM atualizadas✅",
+ "Version": "2.6.3", 
+ "ReleaseNotes": "Nova Atualização Disponível - Vivo SEC AUX 3 adicionada✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -87,6 +87,16 @@
      "Name": "VIVO SEC AUX 2 (BR) 🟠",
      "FLAG": "vivo",
      "Payload": "[delay_split]ACL wss://::ffff:d10e:458f:8080 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyPort": "8080",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO SEC AUX 3 (BR) 🟠",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
@@ -244,6 +254,16 @@
      "Info": "Proxy" 
    },
    { 
+     "Name": "VIVO SEC AUX 3 (BR 2 PREMIUM) 🟣",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyPort": "8080",
+     "Info": "Proxy" 
+   },
+   { 
      "Name": "VIVO SEC (BACKUP) 🟢",
      "FLAG": "vivo",
      "Payload": "[delay_split]CONNECT bkp.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
@@ -287,6 +307,16 @@
      "Name": "VIVO SEC AUX 2 (BACKUP) 🟢",
      "FLAG": "vivo",
      "Payload": "[delay_split]ACL wss://::ffff:d10e:47f2:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:d10e:47f2",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO SEC AUX 3 (BACKUP) 🟢",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:47f2",
