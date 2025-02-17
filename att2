@@ -1,5 +1,5 @@
 { 
- "Version": "2.6.5", 
+ "Version": "2.6.6", 
  "ReleaseNotes": "Nova Atualização Disponível - TIM PREMIUMs 🟣 Atualizadas ✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -426,7 +426,7 @@
    { 
      "Name": "TIM PREMIUM (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d17ssgtjc3y4if.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][lf]Backend:app804420[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1cnur39p3heeb.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][lf]Backend:app804420[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "premier.sonos.dzcdn.net",
@@ -436,7 +436,7 @@
    { 
      "Name": "TIM PREMIUM AUX (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d17ssgtjc3y4if.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][lf]Backend:app804420[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1cnur39p3heeb.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][lf]Backend:app804420[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "18.173.121.128",
@@ -446,7 +446,7 @@
    { 
      "Name": "TIM PREMIUM 2 (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d17ssgtjc3y4if.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1cnur39p3heeb.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "99.84.31.114",
@@ -456,7 +456,7 @@
    { 
      "Name": "TIM PREMIUM 3 (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d17ssgtjc3y4if.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1cnur39p3heeb.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "65.8.178.74",
@@ -486,7 +486,7 @@
    { 
      "Name": "TIM PREMIUM Regiões (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d17ssgtjc3y4if.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+     "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1cnur39p3heeb.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "99.84.31.114",
@@ -496,7 +496,7 @@
    { 
      "Name": "TIM PREMIUM Regiões 2 (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d17ssgtjc3y4if.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+     "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1cnur39p3heeb.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "65.8.178.74",
@@ -506,7 +506,7 @@
    { 
      "Name": "TIM PREMIUM Regiões 3 (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d17ssgtjc3y4if.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+     "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=tim.com.br;timlive.tim.com.br;assine.pos.tim.com.br;planoscontrole.tim.com.br;timfixo.tim.com.br;contratecorp.tim.com.br;contratecorp.tim.com.br][crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1cnur39p3heeb.cloudfront.net;centraldacdn-1.dns-theromshost.com;centraldacdn-2.dns-theromshost.com;centraldacdn-3.dns-theromshost.com][crlf]Backend:app804420[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "premier.sonos.dzcdn.net",
