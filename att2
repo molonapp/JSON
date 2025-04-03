@@ -1,6 +1,6 @@
 { 
- "Version": "2.8.3", 
- "ReleaseNotes": "Nova Atualização Disponível - VIVO, TIM e CLARO PREMIUMs Todos os DDDs adicionadas ✅",
+ "Version": "2.8.4", 
+ "ReleaseNotes": "Nova Atualização Disponível - TIM Expirada NOVA 🟠 e 🟣adicionada✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -393,6 +393,46 @@
      "ProxyPort": "",
      "Info": "Tlsws" 
    },
+   { 
+     "Name": "TIM EXPIRADA NOVA (BR) 🆕🟠",
+     "FLAG": "tim",
+     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "f.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM EXPIRADA NOVA AUX (BR) 🆕🟠",
+     "FLAG": "tim",
+     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM EXPIRADA NOVA (BR 2 PREMIUM) 🆕🟣",
+     "FLAG": "tim",
+     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "s.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+    },
+    { 
+     "Name": "TIM EXPIRADA NOVA (BR 2 PREMIUM) 🆕🟣",
+     "FLAG": "tim",
+     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+    },
    { 
      "Name": "TIM PREMIUM (LS BR 2 PREMIUM) (Crédito Válido e Expirado) 🟣🆕",
      "FLAG": "tim",
