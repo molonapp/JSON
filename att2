@@ -453,7 +453,7 @@
      "ProxyPort": "80",
      "Info": "Proxy" 
     },
-  {
+    {
      "Name": "TIM EXPIRADA NOVA V2 (BR 2 PREMIUM) 🆕🟣",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
