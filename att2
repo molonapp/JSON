@@ -1,5 +1,5 @@
 { 
- "Version": "3.0.0", 
+ "Version": "3.0.1", 
  "ReleaseNotes": "Nova Atualização Disponível - VIVO 🟣, TIM 🔵 E CLARO 🔴 TODOS OS DDD's atualizadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -106,7 +106,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "images.google.com.br",
      "TlsIP": "images.google.com.br",
      "ProxyIP": "",
@@ -116,7 +116,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "lh3.google.com.br",
      "TlsIP": "lh3.google.com.br",
      "ProxyIP": "",
@@ -126,7 +126,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 3 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "youtube.com",
      "TlsIP": "youtube.com",
      "ProxyIP": "",
@@ -136,7 +136,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 4 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.ads.google.com",
      "TlsIP": "www.ads.google.com",
      "ProxyIP": "",
@@ -386,7 +386,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "pubsub.googleapis.com",
      "TlsIP": "pubsub.googleapis.com",
      "ProxyIP": "",
@@ -396,7 +396,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "tim",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.googletagmanager.com",
      "TlsIP": "www.googletagmanager.com",
      "ProxyIP": "",
@@ -816,7 +816,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "gstatic.com",
      "TlsIP": "gstatic.com",
      "ProxyIP": "",
@@ -826,7 +826,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f438d7o-613373495263.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app129 HTTP/1.1[crlf]Host:[rotate=f71rgwt-664847321997.southamerica-east1.run.app;lsvpn-472324428464.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "claropayprd.page.link",
      "TlsIP": "claropayprd.page.link",
      "ProxyIP": "",
