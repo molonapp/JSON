@@ -1,6 +1,6 @@
 { 
- "Version": "3.0.4", 
- "ReleaseNotes": "Nova Atualização Disponível - VIVO 🟣, TIM 🔵 E CLARO 🔴 TODOS OS DDD's atualizadas✅",
+ "Version": "3.0.5", 
+ "ReleaseNotes": "Nova Atualização Disponível - TIM Válida/Expirada 🟠🟣 adicionada✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -403,8 +403,18 @@
      "ProxyPort": "",
      "Info": "Tlsws" 
    },
+   {
+     "Name": "TIM Válida/Expirada 🆕🟠🟣",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host:vs.timrecompensas.com.br[crlf][crlf][instant_split][crlf]GET- / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf][crlf]   ",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:6812:0412",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
    { 
-     "Name": "TIM EXPIRADA NOVA (BR) 🆕🟠",
+     "Name": "TIM EXPIRADA NOVA (BR) 🟠",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
      "SNI": "",
@@ -414,7 +424,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM EXPIRADA NOVA AUX (BR) 🆕🟠",
+     "Name": "TIM EXPIRADA NOVA AUX (BR) 🟠",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
      "SNI": "",
@@ -424,7 +434,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM EXPIRADA NOVA V2 (BR) 🆕🟠",
+     "Name": "TIM EXPIRADA NOVA V2 (BR) 🟠",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -434,7 +444,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM EXPIRADA NOVA AUX V2 (BR) 🆕🟠",
+     "Name": "TIM EXPIRADA NOVA AUX V2 (BR) 🟠",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -444,7 +454,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM EXPIRADA NOVA (BR 2 PREMIUM) 🆕🟣",
+     "Name": "TIM EXPIRADA NOVA (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
      "SNI": "",
@@ -454,7 +464,7 @@
      "Info": "Proxy" 
     },
     { 
-     "Name": "TIM EXPIRADA NOVA AUX (BR 2 PREMIUM) 🆕🟣",
+     "Name": "TIM EXPIRADA NOVA AUX (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
      "SNI": "",
@@ -464,7 +474,7 @@
      "Info": "Proxy" 
     },
     {
-     "Name": "TIM EXPIRADA NOVA V2 (BR 2 PREMIUM) 🆕🟣",
+     "Name": "TIM EXPIRADA NOVA V2 (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
@@ -474,7 +484,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM EXPIRADA NOVA AUX V2 (BR 2 PREMIUM) 🆕🟣",
+     "Name": "TIM EXPIRADA NOVA AUX V2 (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
