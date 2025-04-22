@@ -1,5 +1,5 @@
 { 
- "Version": "3.0.6", 
+ "Version": "3.0.7", 
  "ReleaseNotes": "Nova Atualização Disponível - TIM Válida/Expirada 🟠🟣 adicionada✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -406,7 +406,7 @@
    {
      "Name": "TIM Válida/Expirada 🆕🟠🟣",
      "FLAG": "tim",
-     "Payload": "GET / HTTP/1.1[crlf]Host:vs.timrecompensas.com.br[crlf][crlf][instant_split][crlf]GET- / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf][crlf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host:vs.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:6812:412",
