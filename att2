@@ -1,6 +1,6 @@
 { 
- "Version": "3.0.9", 
- "ReleaseNotes": "Nova Atualização Disponível -VIVO, TIM e CLARO todos os DDDs 🟣, atualizadas✅",
+ "Version": "3.1.0", 
+ "ReleaseNotes": "Nova Atualização Disponível - Tim Expirada Nova 🟣🟠 adicionada✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -414,9 +414,9 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM EXPIRADA NOVA (BR) 🟠",
+     "Name": "TIM EXPIRADA NOVA (BR) 🆕🟠",
      "FLAG": "tim",
-     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
@@ -424,69 +424,29 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM EXPIRADA NOVA AUX (BR) 🟠",
+     "Name": "TIM EXPIRADA NOVA AUX (BR) 🆕🟠",
      "FLAG": "tim",
-     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
-   { 
-     "Name": "TIM EXPIRADA NOVA V2 (BR) 🟠",
+   {
+     "Name": "TIM EXPIRADA NOVA (BR 2 PREMIUM) 🆕🟣",
      "FLAG": "tim",
-     "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "f.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM EXPIRADA NOVA AUX V2 (BR) 🟠",
-     "FLAG": "tim",
-     "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM EXPIRADA NOVA (BR 2 PREMIUM) 🟣",
-     "FLAG": "tim",
-     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
      "ProxyPort": "80",
      "Info": "Proxy" 
-    },
-    { 
+   },
+   { 
      "Name": "TIM EXPIRADA NOVA AUX (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
-     "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: vs.timrecompensas.com.br[lf][lf] [lf][lf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-    },
-    {
-     "Name": "TIM EXPIRADA NOVA V2 (BR 2 PREMIUM) 🟣",
-     "FLAG": "tim",
-     "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "s.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM EXPIRADA NOVA AUX V2 (BR 2 PREMIUM) 🟣",
-     "FLAG": "tim",
-     "Payload": "HTTP/ 1[crlf]Host:vs.timrecompensas.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:b37f:108c",
