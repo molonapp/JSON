@@ -1,6 +1,6 @@
 { 
- "Version": "3.1.0", 
- "ReleaseNotes": "Nova Atualização Disponível - Tim Expirada Nova 🟣🟠 adicionada✅",
+ "Version": "3.1.1", 
+ "ReleaseNotes": "Nova Atualização Disponível - VIVO e TIM EXPIRADA🟣🟠 adicionadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -374,9 +374,59 @@
      "Info": "Tlsws" 
    },
    { 
-     "Name": "VIVO e TIM expirada (BACKUP) 🟢",
+     "Name": "VIVO e TIM EXPIRADA (BR) 🆕🟠",
      "FLAG": "vivo",
-     "Payload": "[delay_split]ACL wss://::ffff:d10e:47f2:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "f.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+ { 
+     "Name": "VIVO e TIM EXPIRADA AUX (BR) 🆕🟠",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   {
+     "Name": "VIVO e TIM EXPIRADA (BR 2 PREMIUM) 🆕🟣",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "s.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO e TIM EXPIRADA AUX (BR 2 PREMIUM) 🟣",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO e TIM EXPIRADA (BACKUP) 🟢",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "bkp.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "VIVO e TIM EXPIRADA AUX (BACKUP) 🟢",
+     "FLAG": "vivo",
+     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:47f2",
@@ -384,7 +434,7 @@
      "Info": "Proxy" 
    },
    { 
-     "Name": "TIM PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
+     "Name": "TIM PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "GET / HTTP/1.1[crlf]Host:lsvpn-472324428464.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "pubsub.googleapis.com",
@@ -394,7 +444,7 @@
      "Info": "Tlsws" 
    },
    { 
-     "Name": "TIM PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
+     "Name": "TIM PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "GET / HTTP/1.1[crlf]Host:lsvpn-472324428464.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.googletagmanager.com",
@@ -404,7 +454,7 @@
      "Info": "Tlsws" 
    },
    {
-     "Name": "TIM Válida/Expirada 🆕🟠🟣",
+     "Name": "TIM Válida/Expirada 🟠🟣",
      "FLAG": "tim",
      "Payload": "GET / HTTP/1.1[crlf]Host:vs.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade:websocket[crlf][crlf]",
      "SNI": "",
