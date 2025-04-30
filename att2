@@ -383,7 +383,7 @@
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
- { 
+   { 
      "Name": "VIVO e TIM EXPIRADA AUX (BR) 🆕🟠",
      "FLAG": "vivo",
      "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
