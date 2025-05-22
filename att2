@@ -46,7 +46,7 @@
     { 
      "Name": "VIVO SEC (BR) 🟠",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT f.lsbrws.top:8080 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT f.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
@@ -76,7 +76,7 @@
    { 
      "Name": "VIVO SEC AUX (BR) 🟠",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT ::ffff:d10e:458f:8080 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT ::ffff:d10e:458f:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
@@ -86,7 +86,7 @@
    { 
      "Name": "VIVO SEC AUX 2 (BR) 🟠",
      "FLAG": "vivo",
-     "Payload": "[delay_split]ACL wss://::ffff:d10e:458f:8080 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "[delay_split]ACL wss://::ffff:d10e:458f:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
@@ -186,7 +186,7 @@
    { 
      "Name": "VIVO SEC (BR 2 PREMIUM) 🟣",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT s.lsbrws.top:8080 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT s.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
@@ -216,7 +216,7 @@
    { 
      "Name": "VIVO SEC AUX (BR 2 PREMIUM) 🟣",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT ::ffff:b37f:108c:8080 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT ::ffff:b37f:108c:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:b37f:108c",
@@ -226,7 +226,7 @@
    { 
      "Name": "VIVO SEC AUX 2 (BR 2 PREMIUM) 🟣",
      "FLAG": "vivo",
-     "Payload": "[delay_split]ACL wss://::ffff:b37f:108c:8080 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "[delay_split]ACL wss://::ffff:b37f:108c:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:b37f:108c",
