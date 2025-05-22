@@ -1,6 +1,6 @@
 { 
- "Version": "3.1.1", 
- "ReleaseNotes": "Nova Atualização Disponível - VIVO e TIM EXPIRADA🟣🟠 adicionadas✅",
+ "Version": "3.1.2", 
+ "ReleaseNotes": "Nova Atualização Disponível - VIVO SECs atualizadas🟣🟠🟢✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -50,7 +50,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -60,7 +60,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -70,7 +70,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "f.lsbrws.top",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -80,7 +80,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -90,7 +90,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -100,7 +100,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -190,7 +190,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -200,7 +200,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -210,7 +210,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "s.lsbrws.top",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -220,7 +220,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:b37f:108c",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -230,7 +230,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:b37f:108c",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -240,7 +240,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:b37f:108c",
-     "ProxyPort": "8080",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -279,7 +279,7 @@
      "Payload": "[delay_split]CONNECT ::ffff:d10e:47f2:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:47f2",
+     "ProxyIP": "::ffff:d10e:458f",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -289,7 +289,7 @@
      "Payload": "[delay_split]ACL wss://::ffff:d10e:47f2:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:47f2",
+     "ProxyIP": "::ffff:d10e:458f",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -299,7 +299,7 @@
      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:47f2",
+     "ProxyIP": "::ffff:d10e:458f",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -372,66 +372,6 @@
      "ProxyIP": "",
      "ProxyPort": "",
      "Info": "Tlsws" 
-   },
-   { 
-     "Name": "VIVO e TIM EXPIRADA (BR) 🆕🟠",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "f.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO e TIM EXPIRADA AUX (BR) 🆕🟠",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   {
-     "Name": "VIVO e TIM EXPIRADA (BR 2 PREMIUM) 🆕🟣",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "s.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO e TIM EXPIRADA AUX (BR 2 PREMIUM) 🟣",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO e TIM EXPIRADA (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "bkp.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO e TIM EXPIRADA AUX (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:47f2",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
    },
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣",
