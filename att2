@@ -1,6 +1,6 @@
 { 
- "Version": "3.1.2", 
- "ReleaseNotes": "Nova Atualização Disponível - VIVO SECs atualizadas🟣🟠🟢✅",
+ "Version": "3.1.3", 
+ "ReleaseNotes": "Nova Atualização Disponível - 🔵 Tim Premium todos os DDDs 3 e 4 🟣 adicionadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -389,6 +389,26 @@
      "Payload": "GET / HTTP/1.1[crlf]Host:lsvpn-472324428464.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.googletagmanager.com",
      "TlsIP": "www.googletagmanager.com",
+     "ProxyIP": "",
+     "ProxyPort": "",
+     "Info": "Tlsws" 
+   },
+   { 
+     "Name": "TIM PREMIUM TODOS OS DDD's 3 (BR 2 PREMIUM) 🟣",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host:lsvpn-472324428464.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "SNI": "cursos.alura.com.br",
+     "TlsIP": "localhost.gmodule.com",
+     "ProxyIP": "",
+     "ProxyPort": "",
+     "Info": "Tlsws" 
+   },
+   { 
+     "Name": "TIM PREMIUM TODOS OS DDD's 4 (BR 2 PREMIUM) 🟣",
+     "FLAG": "tim",
+     "Payload": "GET / HTTP/1.1[crlf]Host:lsvpn-472324428464.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "SNI": "mulherespositivas.com.br",
+     "TlsIP": "mail2.gmodules.com",
      "ProxyIP": "",
      "ProxyPort": "",
      "Info": "Tlsws" 
