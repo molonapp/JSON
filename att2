@@ -1,6 +1,6 @@
 { 
- "Version": "3.1.4", 
- "ReleaseNotes": "Nova Atualização Disponível - 🔵 Tim Premium Todos os DDD's RÁPIDA VÁLIDO e EXPIRADO🟣 adicionadas✅",
+ "Version": "3.1.5", 
+ "ReleaseNotes": "Nova Atualização Disponível - 🔵 Tim Expirada Nova 2 🟠🟣 adicionadas✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -463,6 +463,26 @@
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
+   { 
+     "Name": "TIM EXPIRADA NOVA 2 (BR) 🆕🟠",
+     "FLAG": "tim",
+     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "f.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM EXPIRADA NOVA 2 AUX (BR) 🆕🟠",
+     "FLAG": "tim",
+     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
    {
      "Name": "TIM EXPIRADA NOVA (BR 2 PREMIUM) 🆕🟣",
      "FLAG": "tim",
@@ -477,6 +497,26 @@
      "Name": "TIM EXPIRADA NOVA AUX (BR 2 PREMIUM) 🆕🟣",
      "FLAG": "tim",
      "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   {
+     "Name": "TIM EXPIRADA NOVA 2 (BR 2 PREMIUM) 🆕🟣",
+     "FLAG": "tim",
+     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "",
+     "ProxyIP": "s.lsbrws.top",
+     "ProxyPort": "80",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM EXPIRADA NOVA 2 AUX (BR 2 PREMIUM) 🆕🟣",
+     "FLAG": "tim",
+     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:b37f:108c",
