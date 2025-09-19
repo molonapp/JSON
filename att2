@@ -1,6 +1,6 @@
 { 
- "Version": "3.1.5", 
- "ReleaseNotes": "Nova Atualização Disponível - 🔵 Tim Expirada Nova 2 🟠🟣 adicionadas✅",
+ "Version": "3.1.6", 
+ "ReleaseNotes": "Nova Atualização Disponível - Upgrade Servidor Premium 🟣✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -499,27 +499,7 @@
      "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   {
-     "Name": "TIM EXPIRADA NOVA 2 (BR 2 PREMIUM) 🆕🟣",
-     "FLAG": "tim",
-     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "s.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM EXPIRADA NOVA 2 AUX (BR 2 PREMIUM) 🆕🟣",
-     "FLAG": "tim",
-     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
