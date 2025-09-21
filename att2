@@ -1,6 +1,6 @@
 { 
- "Version": "3.1.6", 
- "ReleaseNotes": "Nova Atualização Disponível - Upgrade Servidor Premium 🟣✅",
+ "Version": "3.1.7", 
+ "ReleaseNotes": "Nova Atualização Disponível - Vivo Secs Aux Atualizadas 🟣✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -219,7 +219,7 @@
      "Payload": "[delay_split]CONNECT ::ffff:b37f:108c:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -229,7 +229,7 @@
      "Payload": "[delay_split]ACL wss://::ffff:b37f:108c:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -239,67 +239,7 @@
      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO SEC (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT bkp.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "bkp.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO SEC 2 (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]GET / HTTP/1.1[crlf]Host:portalrecarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "bkp.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO SEC 3 (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]POST /chat HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Transfer-Encoding: chunked[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "bkp.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO SEC AUX (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT ::ffff:d10e:47f2:80 HTTP/1.0[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO SEC AUX 2 (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]ACL wss://::ffff:d10e:47f2:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "VIVO SEC AUX 3 (BACKUP) 🟢",
-     "FLAG": "vivo",
-     "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -457,26 +397,6 @@
      "Name": "TIM EXPIRADA NOVA AUX (BR) 🆕🟠",
      "FLAG": "tim",
      "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM EXPIRADA NOVA 2 (BR) 🆕🟠",
-     "FLAG": "tim",
-     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
-     "SNI": "",
-     "TlsIP": "",
-     "ProxyIP": "f.lsbrws.top",
-     "ProxyPort": "80",
-     "Info": "Proxy" 
-   },
-   { 
-     "Name": "TIM EXPIRADA NOVA 2 AUX (BR) 🆕🟠",
-     "FLAG": "tim",
-     "Payload": "[delay_split]HTTP/1.1 [crlf][crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:d10e:458f",
