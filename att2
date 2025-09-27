@@ -76,7 +76,7 @@
    { 
      "Name": "VIVO SEC AUX (BR) 🟠",
      "FLAG": "vivo",
-     "Payload": "[delay_split]CONNECT ::ffff:d10e:458f:80 HTTP/1.0[crlf][crlf]",
+     "Payload": "[delay_split]CONNECT ::ffff:45a6:e927:80 HTTP/1.0[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:45a6:e927",
@@ -86,7 +86,7 @@
    { 
      "Name": "VIVO SEC AUX 2 (BR) 🟠",
      "FLAG": "vivo",
-     "Payload": "[delay_split]ACL wss://::ffff:d10e:458f:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+     "Payload": "[delay_split]ACL wss://::ffff:45a6:e927:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "::ffff:45a6:e927",
