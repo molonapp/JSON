@@ -409,7 +409,7 @@
      "Payload": "[delay_split]HTTP/ 1[crlf]Host:tim.com.br[crlf]Connection:Keep-Alive[crlf][crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -599,7 +599,7 @@
      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -619,7 +619,7 @@
      "Payload": "[rotate=ACL / HTTP/1.1;HTTP/ ][crlf][crlf][rotate=;/]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:d10e:458f",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -679,7 +679,7 @@
      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
@@ -699,7 +699,7 @@
      "Payload": "[rotate=ACL / HTTP/1.1;HTTP/ ][crlf][crlf][rotate=;/]",
      "SNI": "",
      "TlsIP": "",
-     "ProxyIP": "::ffff:b37f:108c",
+     "ProxyIP": "::ffff:45a6:e927",
      "ProxyPort": "80",
      "Info": "Proxy" 
    },
