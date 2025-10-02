@@ -1,5 +1,5 @@
 { 
- "Version": "3.2.0", 
+ "Version": "3.2.1", 
  "ReleaseNotes": "Nova Atualização Disponível - Vivo, Tim e Claro PREMIUM Todos os DDD's atualizadas 🟣✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
@@ -106,7 +106,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "images.google.com.br",
      "TlsIP": "images.google.com.br",
      "ProxyIP": "",
@@ -116,7 +116,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "lh3.google.com.br",
      "TlsIP": "lh3.google.com.br",
      "ProxyIP": "",
@@ -126,7 +126,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 3 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "youtube.com",
      "TlsIP": "youtube.com",
      "ProxyIP": "",
@@ -136,7 +136,7 @@
    { 
      "Name": "VIVO PREMIUM TODOS OS DDD's 4 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "vivo",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.ads.google.com",
      "TlsIP": "www.ads.google.com",
      "ProxyIP": "",
@@ -326,7 +326,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA 2 (VÁLIDO/EXPIRADO MODO AVIAO)(BR 2 PREMIUM) 🆕🟣",
      "FLAG": "tim",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "preview.deezer.com",
      "TlsIP": "securetoken.googleapis.com",
      "ProxyIP": "",
@@ -336,7 +336,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA 3 (EXPIRADO)(BR 2 PREMIUM) 🆕🟣",
      "FLAG": "tim",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "adssettings.google.com",
      "TlsIP": "172.217.28.161",
      "ProxyIP": "",
@@ -346,7 +346,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's 4 (VÁLIDO)(BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "pubsub.googleapis.com",
      "TlsIP": "pubsub.googleapis.com",
      "ProxyIP": "",
@@ -356,7 +356,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's 5 (EXPIRADO/VÁLIDO)(BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www.googletagmanager.com",
      "TlsIP": "www.googletagmanager.com",
      "ProxyIP": "",
@@ -366,7 +366,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's 6 (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "cursos.alura.com.br",
      "TlsIP": "localhost.gmodule.com",
      "ProxyIP": "",
@@ -376,7 +376,7 @@
    { 
      "Name": "TIM PREMIUM TODOS OS DDD's 7 (BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "mulherespositivas.com.br",
      "TlsIP": "mail2.gmodules.com",
      "ProxyIP": "",
@@ -766,7 +766,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "gstatic.com",
      "TlsIP": "gstatic.com",
      "ProxyIP": "",
@@ -776,7 +776,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's 2 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "claropayprd.page.link",
      "TlsIP": "claropayprd.page.link",
      "ProxyIP": "",
@@ -786,7 +786,7 @@
    { 
      "Name": "CLARO PREMIUM TODOS OS DDD's 3 (BR 2 PREMIUM) 🟣🆕",
      "FLAG": "claro",
-     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+     "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "www-claro-com-br.cdn.ampproject.or",
      "TlsIP": "www-claro-com-br.cdn.ampproject.or",
      "ProxyIP": "",
