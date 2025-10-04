@@ -320,7 +320,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "108.158.186.66",
-     "ProxyPort": "",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
@@ -330,7 +330,7 @@
      "SNI": "",
      "TlsIP": "",
      "ProxyIP": "bancah.com.br",
-     "ProxyPort": "",
+     "ProxyPort": "80",
      "Info": "Proxy" 
    },
    { 
