@@ -1,6 +1,6 @@
 { 
- "Version": "3.2.1", 
- "ReleaseNotes": "Nova Atualização Disponível - Vivo, Tim e Claro PREMIUM Todos os DDD's atualizadas 🟣✅",
+ "Version": "3.2.2", 
+ "ReleaseNotes": "Nova Atualização Disponível - Tim Válida/Expirada Rápida adicionada 🟣✅",
  "UrlUpdate": "https://raw.githubusercontent.com/molonapp/JSON/main/att2",
  "Sms": "",
  "EmailFeedback": "testenetssh@gmail.com",
@@ -314,7 +314,27 @@
      "Info": "Tlsws" 
    },
    { 
-     "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA (VÁLIDO)(BR 2 PREMIUM) 🆕🟣",
+     "Name": "Tim Válida/Expirada Rápida🚀🟣🆕",
+     "FLAG": "vivo",
+     "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][lf][lf]ACL / HTTP/1.1[lf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:  www.timpromos.com.br[lf][lf]GET /app549183 HTTP/1.1[crlf]Host: [rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "108.158.186.66",
+     "ProxyIP": "",
+     "ProxyPort": "",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "Tim Válida Rápida🚀🟣🆕",
+     "FLAG": "vivo",
+     "Payload": "GET / HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host:p1.lsbrws.top[crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: bancah.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+     "SNI": "",
+     "TlsIP": "bancah.com.br",
+     "ProxyIP": "",
+     "ProxyPort": "",
+     "Info": "Proxy" 
+   },
+   { 
+     "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA (VÁLIDO)(BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-786071311965.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "app.snapchat.com",
@@ -324,7 +344,7 @@
      "Info": "Tlsws" 
    },
    { 
-     "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA 2 (VÁLIDO/EXPIRADO MODO AVIAO)(BR 2 PREMIUM) 🆕🟣",
+     "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA 2 (VÁLIDO/EXPIRADO MODO AVIAO)(BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "preview.deezer.com",
@@ -334,7 +354,7 @@
      "Info": "Tlsws" 
    },
    { 
-     "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA 3 (EXPIRADO)(BR 2 PREMIUM) 🆕🟣",
+     "Name": "TIM PREMIUM TODOS OS DDD's RÁPIDA 3 (EXPIRADO)(BR 2 PREMIUM) 🟣",
      "FLAG": "tim",
      "Payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI": "adssettings.google.com",
