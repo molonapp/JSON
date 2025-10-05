@@ -286,7 +286,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "f.lsbrws.top#::ffff:45a6:e927",
+      "host": "f.lsbrws.top",
       "port": 80
     },
     "server": {
@@ -331,7 +331,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "f.lsbrws.top#::ffff:45a6:e927",
+      "host": "f.lsbrws.top",
       "port": 80
     },
     "server": {
@@ -376,7 +376,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "f.lsbrws.top#::ffff:45a6:e927",
+      "host": "f.lsbrws.top",
       "port": 80
     },
     "server": {
