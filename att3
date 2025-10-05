@@ -720,13 +720,13 @@
     "sorter": 6
   },
   {
-    "id": 816412,
+    "id": 816411,
     "category_id": 52836,
-    "name": "🔵 TIM SLOW 🟣",
-    "description": "TLS",
+    "name": "🔵 Tim SLOW🟣",
+    "description": "Lenta",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf][crlf][crlf]",
-      "sni": null
+      "payload": "GET / HTTP/1.1[crlf][crlf]",
+      "sni": "www.googletagmanager.com"
     },
     "config_openvpn": null,
     "config_v2ray": null,
@@ -736,8 +736,8 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "208.67.222.222",
-      "port": 53
+      "host": "www.googletagmanager.com",
+      "port": 443
     },
     "server": {
       "host": "p1.lsbrws.top",
@@ -762,8 +762,8 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
-    "sorter": 7
-  }
+    "sorter": 6
+  },
   {
     "id": 816405,
     "category_id": 52837,
