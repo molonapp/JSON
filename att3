@@ -95,7 +95,7 @@
     "name": "🟣 Vivo Premium Todos os DDD's 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host]][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "youtube.com"
     },
     "config_openvpn": null,
@@ -110,7 +110,7 @@
       "port": 443
     },
     "server": {
-      "host": "p1.lsbrws.top",
+      "host": "kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
       "port": 443
     },
     "dnstt_key": null,
