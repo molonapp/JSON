@@ -286,7 +286,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "f.lsbrws.top",
+      "host": "f.lsbrws.top#::ffff:45a6:e927",
       "port": 80
     },
     "server": {
@@ -313,7 +313,7 @@
     "url_check_user": null,
     "icon": null,
     "sorter": 5
-  }
+  },
   {
     "id": 816397,
     "category_id": 52836,
@@ -358,7 +358,7 @@
     "url_check_user": null,
     "icon": null,
     "sorter": 6
-  }
+  },
   {
     "id": 816398,
     "category_id": 52836,
