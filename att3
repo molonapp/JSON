@@ -36,7 +36,7 @@
       "dns1": "8.8.8.8",
       "dns2": "8.8.4.4"
     },
-    "udp_ports": [7300],
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
     "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
@@ -81,7 +81,7 @@
       "dns1": "8.8.8.8",
       "dns2": "8.8.4.4"
     },
-    "udp_ports": [7300],
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
     "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
@@ -95,7 +95,7 @@
     "name": "🟣 Vivo Premium Todos os DDD's 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "youtube.com"
     },
     "config_openvpn": null,
@@ -110,7 +110,7 @@
       "port": 443
     },
     "server": {
-      "host": "s.lsbrws.top",
+      "host": "kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
       "port": 443
     },
     "dnstt_key": null,
@@ -126,8 +126,98 @@
       "dns1": "8.8.8.8",
       "dns2": "8.8.4.4"
     },
-    "udp_ports": [7300],
-    "mode": "SSH_TLS",
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 1
+  },
+  {
+    "id": 816393,
+    "category_id": 52835,
+    "name": "🟣 Vivo Premium Todos os DDD's 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "images.google.com.br"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "images.google.com.br",
+      "port": 443
+    },
+    "server": {
+      "host": "kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 2
+  },
+  {
+    "id": 816394,
+    "category_id": 52835,
+    "name": "🟣 Vivo Premium Todos os DDD's 3 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "lh3.google.com.br"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "lh3.google.com.br",
+      "port": 443
+    },
+    "server": {
+      "host": "kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": null,
@@ -135,7 +225,52 @@
     "sorter": 3
   },
   {
-    "id": 816393,
+    "id": 816395,
+    "category_id": 52835,
+    "name": "🟣 Vivo Premium Todos os DDD's 3 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "www.ads.google.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www.ads.google.com",
+      "port": 443
+    },
+    "server": {
+      "host": "kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 4
+  },
+  {
+    "id": 816396,
     "category_id": 52835,
     "name": "Tim Direct",
     "description": "",
@@ -177,96 +312,8 @@
     "status": "ACTIVE",
     "url_check_user": null,
     "icon": null,
-    "sorter": 4
-  },
-  {
-    "id": 816394,
-    "category_id": 52835,
-    "name": "PRÉ",
-    "description": "",
-    "config_payload": {
-      "payload": "[delay_split]ACL / HTTP/ [crlf][crlf]",
-      "sni": null
-    },
-    "config_openvpn": null,
-    "config_v2ray": null,
-    "auth": {
-      "username": null,
-      "password": null,
-      "v2ray_uuid": null
-    },
-    "proxy": {
-      "host": null,
-      "port": null
-    },
-    "server": {
-      "host": "ip da vps",
-      "port": 80
-    },
-    "dnstt_key": null,
-    "dnstt_server": null,
-    "dnstt_name_server": null,
-    "hy_obfs": null,
-    "hy_up_mbps": 100,
-    "hy_down_mbps": 150,
-    "hy_insecure": true,
-    "hy_port": "13375",
-    "hy_version": 1,
-    "dns_server": {
-      "dns1": "8.8.8.8",
-      "dns2": "8.8.4.4"
-    },
-    "udp_ports": [7300],
-    "mode": "SSH_DIRECT",
-    "tls_version": "TLSv1.2",
-    "status": "ACTIVE",
-    "url_check_user": null,
-    "icon": null,
-    "sorter": 5
-  },
-  {
-    "id": 816395,
-    "category_id": 52835,
-    "name": "EASY PRIME",
-    "description": "",
-    "config_payload": {
-      "payload": "GET / HTTP/1.1 [crlf]Host:[host][crlf]Upgrade: websocket[crlf][crlf]",
-      "sni": null
-    },
-    "config_openvpn": null,
-    "config_v2ray": null,
-    "auth": {
-      "username": null,
-      "password": null,
-      "v2ray_uuid": null
-    },
-    "proxy": {
-      "host": "compre.vivo.com.br#login.vivo.com.br",
-      "port": 80
-    },
-    "server": {
-      "host": "ip da vps",
-      "port": 80
-    },
-    "dnstt_key": null,
-    "dnstt_server": null,
-    "dnstt_name_server": null,
-    "hy_obfs": null,
-    "hy_up_mbps": 100,
-    "hy_down_mbps": 150,
-    "hy_insecure": true,
-    "hy_port": "13375",
-    "hy_version": 1,
-    "dns_server": {
-      "dns1": "8.8.8.8",
-      "dns2": "8.8.4.4"
-    },
-    "udp_ports": [7300],
-    "mode": "SSH_PROXY",
-    "tls_version": "TLSv1.2",
-    "status": "ACTIVE",
-    "url_check_user": null,
-    "icon": null,
-    "sorter": 6
+    "sorter": 3
   }
+  
+  
 ]
