@@ -50,7 +50,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 2 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host: www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][lf][split][protocol] 444[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host: www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][lf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
