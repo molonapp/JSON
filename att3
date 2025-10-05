@@ -720,7 +720,7 @@
     "sorter": 6
   },
   {
-    "id": 816411,
+    "id": 816412,
     "category_id": 52836,
     "name": "🔵 Tim SLOW🟣",
     "description": "Lenta",
@@ -762,7 +762,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
-    "sorter": 6
+    "sorter": 7
   },
   {
     "id": 816405,
