@@ -45,6 +45,96 @@
     "sorter": 1
   },
   {
+    "id": 816403,
+    "category_id": 52836,
+    "name": "🔵 NOVA TIM Válida/Expirada 2 🟣🚀",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host: meutim.tim.com.br[crlf][crlf]ACL / HTTP/1.1[crlf]Host:meutim.tim.com.br[crlf][split][crlf][crlf]CHECKIN / HTTP/1.1[lf]Host:  www.timpromos.com.br[lf][lf]GET /app549183 HTTP/1.1[crlf]Host: [rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "18.64.207.50",
+      "port": 80
+    },
+    "server": {
+      "host": "s.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 2
+  },
+{
+    "id": 816404,
+    "category_id": 52836,
+    "name": "🔵 NOVA TIM Válida/Expirada 3 🟣🚀",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host: meutim.tim.com.br[crlf][crlf]ACL / HTTP/1.1[crlf]Host:meutim.tim.com.br[crlf][split][crlf][crlf]CHECKIN / HTTP/1.1[lf]Host:  www.timpromos.com.br[lf][lf]GET /app549183 HTTP/1.1[crlf]Host: [rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "13.226.52.81",
+      "port": 80
+    },
+    "server": {
+      "host": "s.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 3
+  },
+  {
     "id": 816391,
     "category_id": 52836,
     "name": "🔵 NOVA TIM Válida 🟣🚀",
@@ -87,7 +177,7 @@
     "status": "ACTIVE",
     "url_check_user": null,
     "icon": null,
-    "sorter": 2
+    "sorter": 4
   },
   {
     "id": 816392,
