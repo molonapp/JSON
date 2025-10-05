@@ -61,7 +61,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "18.64.207.50",
+      "host": "108.158.122.5",
       "port": 80
     },
     "server": {
@@ -106,7 +106,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "13.226.52.81",
+      "host": "108.156.83.40",
       "port": 80
     },
     "server": {
