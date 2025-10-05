@@ -403,9 +403,54 @@
     "url_check_user": null,
     "icon": null,
     "sorter": 7
-  }
+  },
   {
     "id": 816399,
+    "category_id": 52835,
+    "name": "Vivo SEC (BR 2 PREMIUM)🟣",
+    "description": "",
+    "config_payload": {
+      "payload": "[delay_split]CONNECT f.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "66.166.233.39",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7300],
+    "mode": "SSH_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 8
+  },
+  {
+    "id": 816402,
     "category_id": 52836,
     "name": "🔵 Tim Premium Todos os DDD's Válido 🟣",
     "description": "TLS",
