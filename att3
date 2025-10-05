@@ -40,7 +40,7 @@
     "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 1
   },
@@ -85,7 +85,7 @@
     "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 2
   },
@@ -175,7 +175,7 @@
     "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 4
   },
@@ -220,7 +220,7 @@
     "mode": "SSL_PROXY",
     "tls_version": "TLSv1.3",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 1
   },
@@ -265,7 +265,7 @@
     "mode": "SSL_PROXY",
     "tls_version": "TLSv1.3",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 2
   },
@@ -310,7 +310,7 @@
     "mode": "SSL_PROXY",
     "tls_version": "TLSv1.3",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 3
   },
@@ -355,7 +355,7 @@
     "mode": "SSL_PROXY",
     "tls_version": "TLSv1.3",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 4
   },
@@ -400,7 +400,7 @@
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 5
   },
@@ -445,7 +445,7 @@
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 6
   },
@@ -470,7 +470,7 @@
       "port": 80
     },
     "server": {
-      "host": "f.lsbrws.top#",
+      "host": "f.lsbrws.top",
       "port": 80
     },
     "dnstt_key": null,
@@ -490,7 +490,7 @@
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 7
   },
@@ -535,7 +535,7 @@
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 8
   },
@@ -580,8 +580,53 @@
     "mode": "SSL_PROXY",
     "tls_version": "TLSv1.3",
     "status": "ACTIVE",
-    "url_check_user": null,
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 3
+  },
+{
+    "id": 816403,
+    "category_id": 52837,
+    "name": "🔴 Claro Premium Todos os DDD's 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "gstatic.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "gstatic.com",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 1
   }
 ]
