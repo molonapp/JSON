@@ -500,7 +500,7 @@
     "name": "Vivo SEC AUX (BR 2 PREMIUM)🟣",
     "description": "",
     "config_payload": {
-      "payload": "[delay_split]CONNECT f.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
+      "payload": "[delay_split]CONNECT 66.166.233.39:80 HTTP/1.0[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -538,6 +538,96 @@
     "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 8
+  },
+  {
+    "id": 816409,
+    "category_id": 52835,
+    "name": "Vivo SEC AUX 2(BR 2 PREMIUM)🟣",
+    "description": "",
+    "config_payload": {
+      "payload": "[delay_split]ACL wss://66.166.233.39:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "66.166.233.39",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 9
+  },
+  {
+    "id": 816410,
+    "category_id": 52835,
+    "name": "Vivo SEC AUX 3 (BR 2 PREMIUM)🟣",
+    "description": "",
+    "config_payload": {
+      "payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "66.166.233.39",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 10
   },
   {
     "id": 816402,
@@ -582,7 +672,97 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
-    "sorter": 3
+    "sorter": 5
+  },
+  {
+    "id": 816411,
+    "category_id": 52836,
+    "name": "🔵 Tim Premium Todos os DDD's Válido 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "www.googletagmanager.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www.googletagmanager.com",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 6
+  },
+  {
+    "id": 816412,
+    "category_id": 52836,
+    "name": "🔵 Tim SLOW 🟣",
+    "description": "Lenta",
+    "config_payload": {
+      "payload": "",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "",
+      "port": 53
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 53
+    },
+    "dnstt_key": "a34c090696398d285b216a5babd696e0fd51f90412d42daf3766ee7c1fbff81d",
+    "dnstt_server": "208.67.222.222",
+    "dnstt_name_server": "ns.lsbrws.top",
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_DNSTT",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 7
   },
   {
     "id": 816405,
