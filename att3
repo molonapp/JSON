@@ -1,0 +1,182 @@
+[
+  {
+    "id": 816390,
+    "category_id": 52835,
+    "name": "DTUNNEL PROTEGIDO ?",
+    "description": "",
+    "config_payload": {
+      "payload": "[delay_split]ACL / HTTP/ [crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": null,
+      "port": null
+    },
+    "server": {
+      "host": "ip da vps exemplo",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7300],
+    "mode": "SSH_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 1
+  },
+  {
+    "id": 816393,
+    "category_id": 52835,
+    "name": "NOVA TIM Válida/Expirada",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host: meutim.tim.com.br[crlf][crlf]ACL / HTTP/1.1[crlf]Host:meutim.tim.com.br[crlf][split][crlf][crlf]CHECKIN / HTTP/1.1[lf]Host:  www.timpromos.com.br[lf][lf]GET /app549183 HTTP/1.1[crlf]Host: [rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "108.158.186.66#13.35.116.127#13.226.52.81#3.166.160.57#108.158.122.5#108.158.186.94#13.226.52.51#18.64.174.48#18.64.207.121#18.64.207.113#99.84.252.66#108.158.122.45#108.156.83.40#108.158.122.33#13.35.116.39#108.157.173.97#108.157.173.77#108.157.173.37#108.157.173.80#3.174.59.65#3.174.59.123#108.158.186.32#3.174.59.9#3.174.59.88#3.174.59.24#18.64.207.59#99.84.252.105#108.158.186.35#108.158.122.107#108.158.122.113#3.174.59.83#18.64.207.50",
+      "port": 80
+    },
+    "server": {
+      "host": "s.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7300],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 2
+  },
+  {
+    "id": 816394,
+    "category_id": 52835,
+    "name": "PRÉ",
+    "description": "",
+    "config_payload": {
+      "payload": "[delay_split]ACL / HTTP/ [crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": null,
+      "port": null
+    },
+    "server": {
+      "host": "ip da vps",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7300],
+    "mode": "SSH_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 3
+  },
+  {
+    "id": 816395,
+    "category_id": 52835,
+    "name": "EASY PRIME",
+    "description": "",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1 [crlf]Host:[host][crlf]Upgrade: websocket[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "compre.vivo.com.br#login.vivo.com.br",
+      "port": 80
+    },
+    "server": {
+      "host": "ip da vps",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7300],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": null,
+    "icon": null,
+    "sorter": 4
+  }
+]
