@@ -1,7 +1,7 @@
 [
   {
     "id": 816393,
-    "category_id": 52836,
+    "category_id": 52835,
     "name": "🔵 NOVA TIM Válida/Expirada 🟣🚀",
     "description": "Proxy",
     "config_payload": {
@@ -46,7 +46,7 @@
   },
   {
     "id": 816393,
-    "category_id": 52836,
+    "category_id": 52835,
     "name": "🔵 NOVA TIM Válida 🟣🚀",
     "description": "Proxy",
     "config_payload": {
@@ -132,11 +132,11 @@
     "status": "ACTIVE",
     "url_check_user": null,
     "icon": null,
-    "sorter": 1
+    "sorter": 3
   },
   {
     "id": 816390,
-    "category_id": 52836,
+    "category_id": 52835,
     "name": "Tim Direct",
     "description": "",
     "config_payload": {
@@ -177,7 +177,7 @@
     "status": "ACTIVE",
     "url_check_user": null,
     "icon": null,
-    "sorter": 2
+    "sorter": 4
   },
   {
     "id": 816394,
@@ -222,7 +222,7 @@
     "status": "ACTIVE",
     "url_check_user": null,
     "icon": null,
-    "sorter": 3
+    "sorter": 5
   },
   {
     "id": 816395,
@@ -267,6 +267,6 @@
     "status": "ACTIVE",
     "url_check_user": null,
     "icon": null,
-    "sorter": 4
+    "sorter": 6
   }
 ]
