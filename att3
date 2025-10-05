@@ -721,11 +721,11 @@
   },
   {
     "id": 816412,
-    "category_id": 52836,
-    "name": "🔵 Tim SLOW 🟣",
-    "description": "Lenta",
+    "category_id": 52837,
+    "name": "🔵 TIM SLOW 🟣",
+    "description": "TLS",
     "config_payload": {
-      "payload": "",
+      "payload": "GET /app242 HTTP/1.1[crlf][crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -736,16 +736,16 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "",
-      "port": 53
+      "host": "www-claro-com-br.cdn.ampproject.or",
+      "port": 443
     },
     "server": {
       "host": "p1.lsbrws.top",
-      "port": 53
+      "port": 443
     },
-    "dnstt_key": "a34c090696398d285b216a5babd696e0fd51f90412d42daf3766ee7c1fbff81d",
-    "dnstt_server": "208.67.222.222",
-    "dnstt_name_server": "ns.lsbrws.top",
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
     "hy_obfs": null,
     "hy_up_mbps": 100,
     "hy_down_mbps": 150,
@@ -757,13 +757,13 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DNSTT",
+    "mode": "SSL_PROXY",
     "tls_version": "TLSv1.3",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 7
-  },
+  }
   {
     "id": 816405,
     "category_id": 52837,
