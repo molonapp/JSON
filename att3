@@ -316,7 +316,7 @@
   },
   {
     "id": 816397,
-    "category_id": 52836,
+    "category_id": 52835,
     "name": "Vivo SEC 2 (BR 2 PREMIUM)🟣",
     "description": "",
     "config_payload": {
@@ -361,7 +361,7 @@
   },
   {
     "id": 816398,
-    "category_id": 52836,
+    "category_id": 52835,
     "name": "Vivo SEC 3 (BR 2 PREMIUM) 🟣",
     "description": "",
     "config_payload": {
@@ -407,7 +407,7 @@
   {
     "id": 816399,
     "category_id": 52835,
-    "name": "Vivo SEC (BR 2 PREMIUM)🟣",
+    "name": "Vivo SEC AUX (BR 2 PREMIUM)🟣",
     "description": "",
     "config_payload": {
       "payload": "[delay_split]CONNECT f.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
