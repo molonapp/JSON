@@ -584,8 +584,8 @@
     "icon": null,
     "sorter": 3
   },
-{
-    "id": 816403,
+  {
+    "id": 816405,
     "category_id": 52837,
     "name": "🔴 Claro Premium Todos os DDD's 🟣",
     "description": "TLS",
@@ -628,5 +628,140 @@
     "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
     "icon": null,
     "sorter": 1
+  },
+  {
+    "id": 816406,
+    "category_id": 52837,
+    "name": "🔴 Claro Premium Todos os DDD's 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "claropayprd.page.link"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "claropayprd.page.link",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 2
+  },
+  {
+    "id": 816407,
+    "category_id": 52837,
+    "name": "🔴 Claro Premium Todos os DDD's 3 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "www-claro-com-br.cdn.ampproject.or"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www-claro-com-br.cdn.ampproject.or",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 3
+  },
+  {
+    "id": 816408,
+    "category_id": 52837,
+    "name": "🔴 Claro SLOW 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf][crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www-claro-com-br.cdn.ampproject.or",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 4
   }
 ]
