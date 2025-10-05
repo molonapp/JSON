@@ -306,7 +306,7 @@
       "dns1": "8.8.8.8",
       "dns2": "8.8.4.4"
     },
-    "udp_ports": [7300],
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
@@ -351,7 +351,7 @@
       "dns1": "8.8.8.8",
       "dns2": "8.8.4.4"
     },
-    "udp_ports": [7300],
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
@@ -396,7 +396,7 @@
       "dns1": "8.8.8.8",
       "dns2": "8.8.4.4"
     },
-    "udp_ports": [7300],
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
@@ -441,7 +441,7 @@
       "dns1": "8.8.8.8",
       "dns2": "8.8.4.4"
     },
-    "udp_ports": [7300],
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
     "mode": "SSH_DIRECT",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
