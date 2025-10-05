@@ -721,7 +721,7 @@
   },
   {
     "id": 816412,
-    "category_id": 52837,
+    "category_id": 52836,
     "name": "🔵 TIM SLOW 🟣",
     "description": "TLS",
     "config_payload": {
@@ -736,8 +736,8 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "www-claro-com-br.cdn.ampproject.or",
-      "port": 443
+      "host": "208.67.222.222",
+      "port": 53
     },
     "server": {
       "host": "p1.lsbrws.top",
