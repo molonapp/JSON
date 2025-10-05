@@ -8,23 +8,5 @@
       "sorter":1,
       "color":"#55009c"
     }
-  ],
-  "content":[
-    {
-      "id":52836,
-      "name":"Tim",
-      "status":"ACTIVE",
-      "sorter":2,
-      "color":"#002470"
-    }
-  ],
-  "content":[
-    {
-      "id":52837,
-      "name":"Claro",
-      "status":"ACTIVE",
-      "sorter":3,
-      "color":"#ff0800"
-    }
   ]
 }
