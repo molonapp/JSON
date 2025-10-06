@@ -675,6 +675,96 @@
     "sorter": 10
   },
   {
+    "id": 816414,
+    "category_id": 52835,
+    "name": "Vivo Direct 🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: p1.lsbrws.top[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "104.17.64.225#104.19.240.25#104.18.27.160#104.16.239.166#104.18.28.181#104.16.237.16#104.18.33.113#141.193.213.11",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_DIRECT",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 11
+  },
+  {
+    "id": 816415,
+    "category_id": 52835,
+    "name": "Vivo TLS 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "ACL / HTTP/1.1[lf]Host: p1.lsbrws.top[lf]Upgrade: Websocket[lf][split][lf]",
+      "sni": "p1.lsbrws.top"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "104.17.64.225#104.19.240.25#104.18.27.160#104.16.239.166#104.18.28.181#104.16.237.16#104.18.33.113#141.193.213.11",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "icon": null,
+    "sorter": 12
+  },
+  {
     "id": 816402,
     "category_id": 52836,
     "name": "🔵 Tim Premium Todos os DDD's Válido 🟣",
