@@ -40,7 +40,7 @@
     "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
-    "url_check_user": "http://ch2.lsbrws.top:2052/checkUser",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
     "sorter": 1
   },
