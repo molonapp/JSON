@@ -408,7 +408,7 @@
     "id": 816396,
     "category_id": 52835,
     "name": "Vivo SEC (BR 2 PREMIUM)🟣",
-    "description": "",
+    "description": "Proxy",
     "config_payload": {
       "payload": "[delay_split]CONNECT f.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
       "sni": null
@@ -421,7 +421,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "f.lsbrws.top#::ffff:45a6:e927",
+      "host": "f.lsbrws.top",
       "port": 80
     },
     "server": {
@@ -442,7 +442,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DIRECT",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
@@ -453,7 +453,7 @@
     "id": 816397,
     "category_id": 52835,
     "name": "Vivo SEC 2 (BR 2 PREMIUM)🟣",
-    "description": "",
+    "description": "Proxy",
     "config_payload": {
       "payload": "[delay_split]GET / HTTP/1.1[crlf]Host:portalrecarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
       "sni": null
@@ -487,7 +487,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DIRECT",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
@@ -498,7 +498,7 @@
     "id": 816398,
     "category_id": 52835,
     "name": "Vivo SEC 3 (BR 2 PREMIUM) 🟣",
-    "description": "",
+    "description": "Proxy",
     "config_payload": {
       "payload": "[delay_split]POST /chat HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Transfer-Encoding: chunked[crlf][crlf]",
       "sni": null
@@ -532,7 +532,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DIRECT",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
@@ -543,7 +543,7 @@
     "id": 816399,
     "category_id": 52835,
     "name": "Vivo SEC AUX (BR 2 PREMIUM)🟣",
-    "description": "",
+    "description": "Proxy",
     "config_payload": {
       "payload": "[delay_split]CONNECT 66.166.233.39:80 HTTP/1.0[crlf][crlf]",
       "sni": null
@@ -577,7 +577,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DIRECT",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
@@ -588,7 +588,7 @@
     "id": 816409,
     "category_id": 52835,
     "name": "Vivo SEC AUX 2(BR 2 PREMIUM)🟣",
-    "description": "",
+    "description": "Proxy",
     "config_payload": {
       "payload": "[delay_split]ACL wss://66.166.233.39:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
       "sni": null
@@ -622,7 +622,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DIRECT",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
@@ -633,7 +633,7 @@
     "id": 816410,
     "category_id": 52835,
     "name": "Vivo SEC AUX 3 (BR 2 PREMIUM)🟣",
-    "description": "",
+    "description": "Proxy",
     "config_payload": {
       "payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
       "sni": null
@@ -667,7 +667,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DIRECT",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
@@ -712,7 +712,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSH_DIRECT",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
