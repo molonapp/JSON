@@ -556,7 +556,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "66.166.233.39",
+      "host": "66.166.232.88",
       "port": 80
     },
     "server": {
@@ -601,7 +601,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "66.166.233.39",
+      "host": "66.166.232.88",
       "port": 80
     },
     "server": {
@@ -646,7 +646,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "66.166.233.39",
+      "host": "66.166.232.88",
       "port": 80
     },
     "server": {
@@ -763,6 +763,51 @@
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
     "sorter": 12
+  },
+  {
+    "id": 816416,
+    "category_id": 52835,
+    "name": "Vivo TLS 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app549183[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "firezfalcon.nxtgen.pp.ua"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "gedoc.vivo.com.br#recarga.vivo.com.br#web.vivo.com.br#vivo.com.br",
+      "port": 443
+    },
+    "server": {
+      "host": "gedoc.vivo.com.br#recarga.vivo.com.br#web.vivo.com.br#vivo.com.br",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 13
   },
   {
     "id": 816402,
